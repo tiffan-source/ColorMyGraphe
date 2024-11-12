@@ -1,0 +1,70 @@
+Fichier: instance_test.txt
+Algo 1
+Cout: 18, Nombre de couleurs: 3
+Algo 2
+Cout: 16, Nombre de couleurs: 3
+Algo random
+Cout: 16, Nombre de couleurs: 3
+Fichier: DSJC250.5.col
+Algo 1
+Cout: 4457, Nombre de couleurs: 37
+Algo 2
+Cout: 4731, Nombre de couleurs: 38
+Algo random
+Cout: 4587, Nombre de couleurs: 43
+Fichier: DSJC125.1.col
+Algo 1
+Cout: 408, Nombre de couleurs: 6
+Algo 2
+Cout: 400, Nombre de couleurs: 7
+Algo random
+Cout: 412, Nombre de couleurs: 8
+Fichier: DSJC125.9.col.txt
+Algo 1
+Cout: 3132, Nombre de couleurs: 50
+Algo 2
+Cout: 3323, Nombre de couleurs: 51
+Algo random
+Cout: 3155, Nombre de couleurs: 56
+Fichier: DSJC250.9.col.txt
+Algo 1
+Cout: 10904, Nombre de couleurs: 90
+Algo 2
+Cout: 11035, Nombre de couleurs: 92
+Algo random
+Cout: 11494, Nombre de couleurs: 99
+Fichier: DSJC500.9.col.txt
+Algo 1
+Cout: 40213, Nombre de couleurs: 163
+Algo 2
+Cout: 41322, Nombre de couleurs: 168
+Algo random
+Cout: 39776, Nombre de couleurs: 175
+Fichier: DSJC125.5.col
+Algo 1
+Cout: 1425, Nombre de couleurs: 23
+Algo 2
+Cout: 1379, Nombre de couleurs: 22
+Algo random
+Cout: 1414, Nombre de couleurs: 26
+Fichier: DSJC500.5.col
+Algo 1
+Cout: 15644, Nombre de couleurs: 65
+Algo 2
+Cout: 16214, Nombre de couleurs: 68
+Algo random
+Cout: 15878, Nombre de couleurs: 72
+Fichier: DSJC250.1.col
+Algo 1
+Cout: 1216, Nombre de couleurs: 10
+Algo 2
+Cout: 1293, Nombre de couleurs: 11
+Algo random
+Cout: 1325, Nombre de couleurs: 13
+Fichier: DSJC500.1.col
+Algo 1
+Cout: 3720, Nombre de couleurs: 16
+Algo 2
+Cout: 4028, Nombre de couleurs: 18
+Algo random
+Cout: 4110, Nombre de couleurs: 20
